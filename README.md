@@ -8,7 +8,9 @@ Please make sure to read the important caveats! They regard security!
 
 ## Status
 
-This is currently a personal experiment and not intended for mainstream adoption. Feel absolutely free to copy the ideas presented here and do whatever you want with them.
+This is currently a personal experiment and not intended for mainstream adoption. Feel absolutely free to copy the ideas presented here and do whatever you want with them. It currently assumes an independent passion for Neomutt.
+
+A separate [`TODO.md`](TODO.md) document is maintained for now, which includes itemst like improving documentation and making it easier to set up and configure.
 
 # The problem
 
@@ -53,4 +55,4 @@ commonplace in modern email clients, but it has still not been implemented in Me
 - No filtering of JavaScript takes place. Any JavaScript that is in the HTML will get run in the browser on your
 localhost.
 
-Both of these should be fixed. A separate [`TODO.md`](TODO.md) document is maintained for such items for now.
+Both of these should be fixed.
