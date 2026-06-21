@@ -6,6 +6,10 @@ The name wasn't picked specifically to confuse you, it was just a random idea. I
 
 Please make sure to read the important caveats! They regard security!
 
+## Status
+
+This is currently a personal experiment and not intended for mainstream adoption. Feel absolutely free to copy the ideas presented here and do whatever you want with them.
+
 # The problem
 
 Once you've gone through the trouble of setting up Neomutt and configuring it to your liking, it's pretty awesome, except at one thing: actually viewing email.
