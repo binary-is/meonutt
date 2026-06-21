@@ -1,0 +1,2 @@
+- [ ] Filter JavaScript from HTML.
+- [ ] Prevent remote content from being loaded unless user specifically allows it.
