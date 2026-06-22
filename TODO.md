@@ -10,14 +10,12 @@
 - [ ] HTML: List links found in visible content (i.e. not in HTML `.text` elements).
 - [ ] PDF: Ability to display extracted text (using an LLM, of course).
 
-# Running
+# Setup, configuration and running
 
 - [ ] Prepare `requirements.txt`.
 - [ ] Support terminal clipboard thingamabob (OSC 52).
-
-# Configuration
-
 - [ ] Make local port configurable (currently hard-coded at 9000).
+- [ ] Ability to auto-select available port for web server.
 
 # Documentation
 
