@@ -22,3 +22,8 @@
 - [ ] Explain how Neomutt should be configured to work with Meonutt.
 - [ ] Explain SSH port forwarding.
 - [ ] Switch from this ridiculous `TODO.md` task management to something else.
+
+# Needs further planning
+
+- [ ] Calendar invites (`.ics`).
+- [ ] Calendar: Detection of Google Calendar response links (if necessary).
